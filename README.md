@@ -1,55 +1,6 @@
 # Introductory Applied Machine Learning (INFR10069 & INFR11182)
 This repository contains the Python files for the IAML labs. It also contains instructions for how to get started. We recommend that you use Noteable to do the labs. 
 
-## Gettting Started: Using [Noteable](https://noteable.edina.ac.uk/login)
-
-#### Step 1: 
-Go to [Noteable](https://noteable.edina.ac.uk/login). It might ask your UUN and Password, if you are not logged into Euclid. After login, the following screen will be available with few options to start the server. 
-<br/>
-<img src="assets\step_0.png" width="500" height="200">
-
-#### Step 2: 
-Choose *Standard Notebook (Python3)* and click *Start*.
-<br/>
-<img src="assets\step_1.png" width="500" height="200">
-
-#### Step 2: 
-The jupyter notebook will open in the same window, as shown below. On the Noteable home folder, click on the <span style="color:red">*+GitRepo*</span> button.
-<br/>
-<img src="assets\step_2.png" width="500" height="200">
-
-#### Step 3: 
-In the Notebook server, a small pop-up window appears, as shown below:
-<br/>
-<img src="assets\step_3.png" width="500" height="200">
-
-<!-- and enter the Github link for the [iaml-labs]() repository (keep branch as `master`) -->
-#### Step 4: 
-Go to IAML github repo: [iaml-labs](https://github.com/uoe-iaml/iaml-labs) and copy the *HTTPS* link by clicking on the green colored <span style="color:green">*Code*</span> button.
-<br/>
-<img src="assets\step_4.png" width="500" height="200">
-
-#### Step 5: 
-Enter the copied Github link in the pop-up window on the Notebook server (keep branch as `master`). Now click *Clone* to copy the labs into Noteable.
-<br/>
-<img src="assets\step_5.png" width="500" height="200">
-
-#### Step 6: 
-Noteable will take few seconds to copy and load the IAML Labs.
-<br/>
-<img src="assets\step_6.png" width="500" height="200">
-
-#### Step 7: 
-Once the Noteable is successfull, it will show the repository contents.
-<br/>
-<img src="assets\step_7.png" width="500" height="200">
-
-#### Step 8: 
-Go to `Labs` to find the available jupyter notebook and continue working on them.
-<br/>
-<img src="assets\step_8.png" width="500" height="200">
-
-
 ## Alternatives to Noteable
 
 The following instructions tell you how to setup Python and how to configure it for the IAML labs. If you successfully got Notable working you can skip this step. In this section we provide alternative ways in which you can run the labs - either on DICE or your own computer. The main steps are (i) installing Python (using conda), (ii) configuring the correct libraries required for IAML, and (iii) downloading the labs. 
